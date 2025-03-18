@@ -9,6 +9,10 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/65f28a3d-e39c-4170-b42a-20c1545545be)
+
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/eee55bf1-585e-42d1-9d5c-a89860554fcc)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
